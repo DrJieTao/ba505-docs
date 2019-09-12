@@ -17,15 +17,15 @@
 | Contact Info         |                                                                  |                                       |
 |:-------------------  |:-----------------------------------------------------------------|:------------------------------------- |
 | **Name:** Jie Tao    | **Email:** [jtao@fairfield.edu](mailto:jtao@fairfield.edu)       | **Phone:** (203)254-4000 x 2232       |
-| **Office:** TBD | **Office Hours:** TBD, or by appointment                                                  |
+| **Office:** DSBN 338 | **Office Hours:** TF 5 - 6:30 PM, or by appointment                                                  |
 ---
 
 ## Course Information
 | **Title:** Python for Business Analytics |  |
 :--- | :--- 
 **Course Number:** `BA505` | **Credit Hours:** 3 | 
-**Prerequisites:** NONE | **Course Duration**: TBD |
-**Delivery Method:**  In class (**TBD**) and online ([Github](#)) | **Meeting Time:** TBD [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
+**Prerequisites:** NONE | **Course Duration**: Sep., 4th - Dec., 10th|
+**Delivery Method:**  In class (**TBD**) and online ([Github](#)) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
 
 ### Course Description
 
