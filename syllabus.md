@@ -25,7 +25,7 @@
 :--- | :--- 
 **Course Number:** `BA505` | **Credit Hours:** 3 | 
 **Prerequisites:** NONE | **Course Duration**: Sep., 4th - Dec., 10th|
-**Delivery Method:**  In class (**TBD**) and online ([Github](#)) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
+**Delivery Method:**  In class (**DSBN 218**) and online ([Github](#)) | **Meeting Time:** T 6:30 - 9:30 PM [academic calendar](https://wiki.fairfield.edu/display/OUR/2018-2019) |
 
 ### Course Description
 
