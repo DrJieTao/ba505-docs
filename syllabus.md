@@ -116,7 +116,7 @@ respective classes. You will need to __submit__ the __completed__ notebook befor
 DataCamp is an online learning community covering Python, R, and SQL. In this course, you will receive __free of charge__ accesses to learning materials. You will need to complete these materials on your own time, each part of the assignment counts for 15 points in your final grade.
 
 ### Coding Assignments
-There are two individual assignments that focus on the __practice__ parts of the learning objectives. The assignments are worth 9% each 
+There are two individual assignments that focus on the __practice__ parts of the learning objectives. The assignments are worth 46 points each 
 and are based on the following business applications.
 + __HealthStats Project__: This project is designed to provide __Just-in-Time__ practice with Python, Jupyter, and GitHub. In each part you will complete a short assignment that applies what you have learned in the classroom that week. Do not do assignments until they are assigned. They may change at any time until they are formally assigned.
 
