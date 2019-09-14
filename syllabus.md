@@ -118,7 +118,9 @@ DataCamp is an online learning community covering Python, R, and SQL. In this co
 ### Coding Assignments
 There are two individual assignments that focus on the __practice__ parts of the learning objectives. The assignments are worth 9% each 
 and are based on the following business applications.
-+ __HealthStats Project__: To be updated
++ __HealthStats Project__: This project is designed to provide __Just-in-Time__ practice with Python, Jupyter, and GitHub. In each part you will complete a short assignment that applies what you have learned in the classroom that week. Do not do assignments until they are assigned. They may change at any time until they are formally assigned.
+
+You are __encouraged to collaborate__ with your peers. However, you are also responsible for learning the key lessons of each assignment. So, if you need help, ask for it and pay attention to the answers. If you know how to help someone (without doing the work for them), then please help them out.
 
 ### Final Project
 Students will self-select into teams of about 2-3 students and will work in their
