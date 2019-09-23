@@ -193,7 +193,7 @@ The following course outline is tentative and subject to change when and where d
 | Week4 | Iterations | PY4E Ch.5 | DataCamp "Loops"; Coding Assignment Pt. 1 |
 | Week5 | String and Lists | PY4E Ch.6, 8 | DataCamp "Python Lists" |
 | Week6 | Dictionaries and RegEx | PY4E Ch.9, 11 | DataCamp "Regular Expression for Pattern Matching", Coding Assignment Pt. 2 |
-| Oct. 14| Fall Break, no classes |
+| Oct. 15 | Fall Break, no classes |
 | Week7 | Getting Started with Pandas | PD4E Ch. 1 | DataCamp "Extracting and transforming data" |
 | Week8 | Pandas Data Structure and Plotting | PD4E Ch.2 - 3 | DataCamp "Grouping Data", Coding Assignment Pt. 3 |
 | Week9 | Pandas Data Manipulation | PD4E Ch.4 - 5 | DataCamp "Visualizing a Categorical and a Quantitative Variable" |
