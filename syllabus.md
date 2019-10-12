@@ -197,7 +197,7 @@ The following course outline is tentative and subject to change when and where d
 | Week7 | Getting Started with Pandas | PD4E Ch. 1 | DataCamp "Extracting and transforming data" |
 | Week8 | Pandas Data Structure and Plotting | PD4E Ch.2 - 3 | DataCamp "Grouping Data", Coding Assignment Pt. 3 |
 | Week9 | Pandas Data Manipulation | PD4E Ch.4 - 5 | DataCamp "Visualizing a Categorical and a Quantitative Variable" |
-| Week10 | Data Types and Cleaning | PD4E Ch.6 - 7 | DataCamp "Case Study - Summer Olympics", Coding Assignment Pt. 4 |
+| Week10 | Data Types and Cleaning | PD4E Ch.7 - 8 | DataCamp "Case Study - Summer Olympics", Coding Assignment Pt. 4 |
 | Week11 | Apply Functions to your Data | PD4E Ch.9 | DataCamp "Speed efficient methods for iterating through a DataFrame" |
 | Week12 | Aggregating your Data | PD4E Ch.10 | DataCamp "Bringing it all together", Coding Assignment Pt.5 |
 | Week13 | Deal with Datetime Data | PD4E Ch.11 | Working on Your Final Project |
