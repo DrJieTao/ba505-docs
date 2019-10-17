@@ -1,6 +1,6 @@
 # BA 505 Final Projects
 ## Fall 2019
-__This is last year's final project document, it will be updated later in the semester.__
+__This is the final project document.__
 
 ## Overview
 Students work in 4-person teams to define and complete a moderately-sized analytical project in Python. Detailed instructions are provided regarding selecting and framing a suitable analysis. Grading criteria will reflect demonstrated achievement of the objectives and compliance with the requirements.
