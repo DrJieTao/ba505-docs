@@ -1,13 +1,13 @@
 # BA 505 Final Projects
-## Fall 2018
+## Fall 2019
 __This is last year's final project document, it will be updated later in the semester.__
 
 ## Overview
-Students work in 3-person teams to define and complete a moderately-sized analytical project in Python. Detailed instructions are provided regarding selecting and framing a suitable analysis. Grading criteria will reflect demonstrated achievement of the objectives and compliance with the requirements.
+Students work in 4-person teams to define and complete a moderately-sized analytical project in Python. Detailed instructions are provided regarding selecting and framing a suitable analysis. Grading criteria will reflect demonstrated achievement of the objectives and compliance with the requirements.
 
 ## Objectives
 * Apply Python skills to a student-selected analytical project of moderate (but nontrivial) scope and complexity.
-* Demonstrate mastery of Python, NumPy, Pandas, Matplolib, Jupyter, and GitHub.
+* Demonstrate mastery of Python, Pandas, Matplolib, Jupyter, and GitHub.
 * Work in teams, with professional-quality tools and standards.
 
 ## Project Requirements
@@ -16,9 +16,9 @@ Students work in 3-person teams to define and complete a moderately-sized analyt
 * **The analysis must be fully reproducible, even and especially with new data.** This is to be professional work, subject to prevalent standards. Suggestion: create a separate module to load/clean/integrate your data. That will allow us to test and reuse your work in other projects.
 * **Descriptive analytics (as in QA400) are sufficient.** However, there is no need to constrain your work. If you can apply forecasting or decision modeling, then feel free to do so.
 * **The analysis should stand on its own.** All work will be posted a *public* repository created via GitHub Classroom. You will be asked to present your work on the final day of class, but the analysis itself should be readily accessible and understandable from your GitHub repositories without installing any additional software.
-* **Project size and scope should be sufficient to demonstrate mastery of Python, NumPy, Pandas, and Matplotlib.** At a minimum the datasets used should have at least 10K records with a dozen or more fields. Further, there should be some opportunity for you to filter/reduce/analyze the data using Pandas and NumPy. If the work could just as easily be performed by an undergraduate in Excel, then keep looking for another project.
+* **Project size and scope should be sufficient to demonstrate mastery of Python, Pandas, and Matplotlib.** At a minimum the datasets used should have at least 10K records with a dozen or more fields. Further, there should be some opportunity for you to filter/reduce/analyze the data using Pandas . If the work could just as easily be performed by an undergraduate in Excel, then keep looking for another project.
 * **All data used must be posted in your GitHub repository.** If you are borrowing data from Kaggle, then please cite the original source in your `Readme.md` file. It should be possible for anyone to reproduce your work, including collecting the data from original sources.
-* **Document your work.** At a minimum, each analytical step (code cell) should be documented with markdown cells above and below stating your intention (above) and interpretation (below). Your notebooks should tell a story about the data. **One should be able to read the rendered notebook in GitHub and know exactly what you did, why you did it, and why we should care about the results.**
+* **Document your work.** At a minimum, each analytical step (code cell) should be documented with markdown cells above and below stating your intention (_above_) and interpretation (_below_). Your notebooks should tell a story about the data. **One should be able to read the rendered notebook in GitHub (without running your code or your presentation) and know exactly what you did, why you did it, and why we should care about the results.**
 
 ## Instructions  
 
@@ -41,8 +41,8 @@ The tutorial is in 10 parts, with some of the more advanced work in the second h
 8. **Clean up your final notebook and GitHub repo.** The final notebook is your presentation (i.e., there will be no slides) so make sure it is readable on a TV monitor from across the room. It is also your report, so make sure every objective, decision, interpretation, and conclusion you make is throughly explained and professional-looking. (Yes, styling and organization matters. We're professionals, right?) Make sure you don't have any unfinished or extraneous artifacts left over from your explorations. (Again, we're professionals, not undergrads.)
 
 ## Timeline/Workplan
-* **Nov 6:** Review assignment, form teams, and begin planning out the work. Do not create any shared GitHub repositories yet. 
-* **Nov 13:** Follow instructions in class to set up your teams and shared repositories in GitHub classroom. Also prepare a short (5-minute verbal) walkthrough for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
-* **Nov 20 and 29:** Use the class time to meet with your team and ask questions when needed. (Note: You are expected to show up for class. We have other classwork like Quiz 5 to do yet.)
-* **Dec 4:** Preview of your results. This is like a dress rehearsal to address any remaining problems before your final presentations. 
-* **Dec 11:** Present your finished work. Walk us through your project, including your source/motivations, finished notebook, modules/testing, and lessons learned. There will be no slides for this. Just use your work. See the instructions for the `Readme.md` file above. 
+* **Oct., 29:** Review assignment, form teams, and begin planning out the work. Do not create any shared GitHub repositories yet. 
+* **Nov, 5:** Follow instructions in class to set up your teams and shared repositories in GitHub classroom. Also prepare a short (5-minute verbal) walkthrough for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
+* **Nov., 19 and 26:** Use the class time to meet with your team and ask questions when needed. (Note: You are expected to show up for class. We have other classwork to do yet.)
+* **Dec., 3:** Preview of your results. This is like a dress rehearsal to address any remaining problems before your final presentations. 
+* **Dec., 10:** Present your finished work. Walk us through your project, including your source/motivations, finished notebook, modules/testing, and lessons learned. There will be no slides for this. Just use your work. See the instructions for the `Readme.md` file above. 
