@@ -42,7 +42,7 @@ The tutorial is in 10 parts, with some of the more advanced work in the second h
 
 ## Timeline/Workplan
 * **Oct., 29:** Review assignment, form teams, and begin planning out the work. Do not create any shared GitHub repositories yet. 
-* **Nov, 5:** Follow instructions in class to set up your teams and shared repositories in GitHub classroom. Also prepare a short (5-minute verbal) walkthrough for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
+* **Nov, 5:** Follow instructions in class to set up your teams and shared repositories in GitHub classroom. Also prepare a short (5-minute verbal) __proposal__ for your project that covers i) data source; ii) research questions; iii) anticipated challenges; and iv) what results you expect to present on the final day of class.
 * **Nov., 19 and 26:** Use the class time to meet with your team and ask questions when needed. (Note: You are expected to show up for class. We have other classwork to do yet.)
 * **Dec., 3:** Preview of your results. This is like a dress rehearsal to address any remaining problems before your final presentations. 
 * **Dec., 10:** Present your finished work. Walk us through your project, including your source/motivations, finished notebook, modules/testing, and lessons learned. There will be no slides for this. Just use your work. See the instructions for the `Readme.md` file above. 
