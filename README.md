@@ -11,4 +11,5 @@ _Fall 2019_
 + [Coding Assignments](https://github.com/DrJieTao/ba505-docs/tree/master/coding_assignments)
 + [JupyterHub User Guide](https://github.com/DrJieTao/ba505-docs/blob/master/Getting%20started%20with%20JupyterHub.pdf)
   + Special thanks to Ms. Pu for preparing this document. If you have any technical issues, please contact [Ms. Pu](mailto:yue.pu@fairfield.edu).
++ [Final Project](https://github.com/DrJieTao/ba505-docs/blob/master/final_project/readme.md)
 
