@@ -30,6 +30,7 @@ The tutorial is in 10 parts, with some of the more advanced work in the second h
   * [anokas/exploratory-data-analysis-4 2017](https://www.kaggle.com/anokas/exploratory-data-analysis-4)
   * [sudalairajkumar/simple-exploration-notebook-5](https://www.kaggle.com/sudalairajkumar/simple-exploration-notebook-5)
   * [pmarcelino/comprehensive-data-exploration-with-python](https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python)
+  * [This](https://github.com/fairfield-university-ba505-fall2018/final-project-filip-s-angels) is an example of last year's student project in this course. You should use that as the reference for an excellent project. __NOTE__ that two of the three students in this group got hired because of this project.
 
    While some are more "finished" than others, you'll find that each tells a story with data. Try to learn to do that.  
 
