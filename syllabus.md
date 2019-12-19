@@ -102,8 +102,7 @@ This class is graded based on a point system (with a total of __1,000__ points),
 | 800 - 829 | 80 - 82.9 | B- |
 | 770 - 799 | 77 - 79.9 | C+ |
 | 730 - 769 | 73 - 76.9 | C |
-| 700 - 729 | 70 - 72.9 | C- |
-| 699 and below | 69.9 and below | F |
+| 729 and below | 72.9 and below | F |
 
 ---
 
