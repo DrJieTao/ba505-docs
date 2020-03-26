@@ -210,14 +210,12 @@ The following course outline is tentative and subject to change when and where d
 
 | Date | Lecture | Coverage | Student Work |
 :--- | :--- | :--- | :--- 
-<!--| Study Unit 1: Python Review |-->
 | Week1 | Course Logistics; Python Review: Functions & Iterations | PY4E Ch.4,5 . | DataCamp "Functions and Packages" |
 | Week2 | Python Review: List & Dictionaries | PY4E Ch.8, 9 | DataCamp "Dictionaries - the root of Python"; Coding Assignment Pt. 1 |
 | Week3 | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" |
 | Week4 | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | Coding Assignment Pt. 2 |
 | Week5 | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" |
 | Week6 | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data", Coding Assignment Pt. 2 |
-<!--| Oct. 15 | Fall Break, no classes |-->
 | Week7 | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | Coding Assignment Pt. 3 |
 | Week8 | Pandas: Apply Functions | PD4E Ch.9 | DataCamp Introduction to Data Preprocessing",  |
 | Week9 |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" |
