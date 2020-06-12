@@ -198,7 +198,7 @@ __Academic Honesty__: Fairfield University’s primary purpose is the pursuit of
 
 __Students with Disabilities__: Fairfield University is committed to providing qualified students with disabilities an equal opportunity to access the benefits, rights and privileges of its services, programs and activities, in an accessible setting. Fur-thermore, in compliance with Section 504 of the Rehabilitation Act, the Americans with Disabilities Act, and Connecticut State laws, we provide reasonable accommodations to qualified students, to reduce the impact of disabilities on academic functioning or upon other major life activities. 
 
-__ Online Office/Coaching Hours__: online office hours are available via [Zoom](), which runs in addition to the regular on ground office hours. If needed, additional coaching hours can be arranged.
+__Online Office/Coaching Hours__: online office hours are available via [Zoom](), which runs in addition to the regular on ground office hours. If needed, additional coaching hours can be arranged.
 
 __Python Tutoring__: Given the circumstances that the professor is not available, we have Python tutors for on-ground and online tutoring services. Make sure to maintain contacts with your Python tutors.
 
