@@ -99,8 +99,8 @@ This class is graded based on a point system (with a total of __1,000__ points),
 
 | Deliverables | Point Value |
 :--- | :---
-| In-class Labs | 10 x 15 = __150_ points |
-| DataCamp Assignments | 10 x 20 = __200_ points |
+| In-class Labs | 10 x 15 = __150__ points |
+| DataCamp Assignments | 10 x 20 = __200__ points |
 | Coding Assignments | 50 x 5 = __250__ points | 
 | Course Project Proposal | __50__ points |
 | Course Project Deliverable | __300__ points |
