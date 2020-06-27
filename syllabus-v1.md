@@ -215,7 +215,7 @@ The following course outline is tentative and subject to change when and where d
 | Week3 | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" |
 | Week4 | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | Coding Assignment Pt. 2 |
 | Week5 | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" |
-| Week6 | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data", Coding Assignment Pt. 2 |
+| Week6 | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" |
 | Week7 | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | Coding Assignment Pt. 3 |
 | Week8 | Pandas: Apply Functions | PD4E Ch.9 | DataCamp Introduction to Data Preprocessing",  |
 | Week9 |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" |
