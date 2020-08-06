@@ -210,7 +210,7 @@ The following course outline is tentative and subject to change when and where d
 
 | Date | Lecture | Coverage | Student Work |
 :--- | :--- | :--- | :--- 
-| Week1 | Course Logistics; Python Review: Functions & Iterations | PY4E Ch.4,5 . | DataCamp "Functions and Packages" |
+| Week1 | Course On-boarding; Python Review: Functions & Iterations | PY4E Ch.4,5 . | DataCamp "Functions and Packages" |
 | Week2 | Python Review: List & Dictionaries | PY4E Ch.8, 9 | DataCamp "Dictionaries - the root of Python"; Coding Assignment Pt. 1 |
 | Week3 | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" |
 | Week4 | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | Coding Assignment Pt. 2 |
