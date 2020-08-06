@@ -211,16 +211,16 @@ The following course outline is tentative and subject to change when and where d
 | Date | Lecture | Coverage | Student Work |
 :--- | :--- | :--- | :--- 
 | Week1 | Course On-boarding; Python Review: Functions & Iterations | PY4E Ch.4,5 . | DataCamp "Functions and Packages" |
-| Week2 | Python Review: List & Dictionaries | PY4E Ch.8, 9 | DataCamp "Dictionaries - the root of Python"; Coding Assignment Pt. 1 |
+| Week2 | Python Review: List & Dictionaries | PY4E Ch.8, 9 | DataCamp "Dictionaries - the root of Python"; _Coding Assignment Pt. 1_ |
 | Week3 | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" |
-| Week4 | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | Coding Assignment Pt. 2 |
+| Week4 | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | _Coding Assignment Pt. 2_ |
 | Week5 | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" |
 | Week6 | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" |
-| Week7 | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | Coding Assignment Pt. 3 |
+| Week7 | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | _Coding Assignment Pt. 3_ |
 | Week8 | Pandas: Apply Functions | PD4E Ch.9 | DataCamp Introduction to Data Preprocessing",  |
 | Week9 |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" |
-| Week10 | Pandas: Time Series Data  | PDS Ch.3.11, PD4E Ch.11 | DataCamp "Time Series Analysis in Python - Correlation and Autocorrelation", Coding Assignment Pt. 4 |
+| Week10 | Pandas: Time Series Data  | PDS Ch.3.11, PD4E Ch.11 | DataCamp "Time Series Analysis in Python - Correlation and Autocorrelation", _Coding Assignment Pt. 4_ |
 | Week11 | Matplotlib: Intro and Simple plotting | PDS Ch.4.0 - 4.2 | DataCamp "Intermediate Python - Matplotlib |
-| Week12 | Matplotlib: Simple Plotting Continued | PDS Ch.4.5 - 4.6 | __MOCK__ Final Project; Coding Assignment Pt.5 |
+| Week12 | Matplotlib: Simple Plotting Continued | PDS Ch.4.5 - 4.6 | __MOCK__ Final Project (In class); _Coding Assignment Pt.5_ |
 | Week13 | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 |  |
 | Week14 | Final Project Presentation |
