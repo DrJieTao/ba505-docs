@@ -221,6 +221,6 @@ The following course outline is tentative and subject to change when and where d
 | Week9 |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" |
 | Week10 | Pandas: Time Series Data  | PDS Ch.3.11, PD4E Ch.11 | DataCamp "Time Series Analysis in Python - Correlation and Autocorrelation", Coding Assignment Pt. 4 |
 | Week11 | Matplotlib: Intro and Simple plotting | PDS Ch.4.0 - 4.2 | DataCamp "Intermediate Python - Matplotlib |
-| Week12 | Matplotlib: Simple Plotting Continued | PDS Ch.4.5 - 4.6 | DataCamp "Bringing it all together"; Coding Assignment Pt.5 |
+| Week12 | Matplotlib: Simple Plotting Continued | PDS Ch.4.5 - 4.6 | __MOCK__ Final Project; Coding Assignment Pt.5 |
 | Week13 | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 |  |
 | Week14 | Final Project Presentation |
