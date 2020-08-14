@@ -1,4 +1,4 @@
-# BA505: Python for Business Analytics Syllabus, Fall 2020
+# BUAN6505: Python for Business Analytics Syllabus, Fall 2020
 ---
 ## Table of Contents
 + [Professor Information](#professor-information)
