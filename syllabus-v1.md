@@ -64,15 +64,16 @@ Other materials used in this course include, but not limit to: lecture slides, J
 these will be distributed via Github.
 
 ### Technical Requirements
-Jupyter notebooks/Jupyterhub/JupyterLab are used throughout this course. You can use the university's [BA Lab](https://ba-lab.fairfield.edu/hub/login) or your own distribution. 
+Jupyter notebooks/Jupyterhub/JupyterLab are used throughout this course. You can use the [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) or your own distribution. 
 
 __Note:__ It is __YOUR OWN__ responsibility to make sure you have access to at least one of the above computing environments.
 
-GitHub will be used to disseminate class materials - make sure you have a __working GitHub Account__.
+Google Classroom will be used to disseminate class materials - make sure you accept the course invitation link in your __Fairfield Student__ email account.
 
 ### Other Support Materials
 
-To facilitate online teaching, other materials (including but not limit to, lecture videos, online programming tutorials) are provided on a weekly basis. A [link]() to Fairfield Dolan's online Business Analytics Laboratory (BA lab) portal is provided for your convenience. 
+To facilitate online teaching, other materials (including but not limit to, lecture videos, online programming tutorials) are provided on a weekly basis. 
+<!--A [link]() to Fairfield Dolan's online Business Analytics Laboratory (BA lab) portal is provided for your convenience.-->
 
 ---
 
