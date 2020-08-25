@@ -23,7 +23,7 @@
 ## Course Support Staff
 - Technology Specialist: Yue Pu [Email](mailto:yue.pu@fairfield.edu)
 - Python Tutors:
-  + Breanna Cocuzzo [Email](mailto: breanna.cocuzzo@student.fairfield.edu)
+  + Breanna Cocuzzo [Email](mailto:breanna.cocuzzo@student.fairfield.edu)
 
 Support staff office hours and locations to be announced.
 
