@@ -21,9 +21,9 @@
 | **Office:** DSBN 338 | **Office Hours:** TF 5 - 6:30 PM, or by appointment                            | __Online Office hours__ on Slack Channel | 
 ---
 ## Course Support Staff
-- Lab Manager: Yue Pu [Email](mailto:yue.pu@fairfield.edu)
+- Technology Specialist: Yue Pu [Email](mailto:yue.pu@fairfield.edu)
 - Python Tutors:
-_To be announced_
+  + Breanna Cocuzzo [Email](mailto: breanna.cocuzzo@student.fairfield.edu)
 
 Support staff office hours and locations to be announced.
 
