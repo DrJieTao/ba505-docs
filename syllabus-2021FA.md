@@ -179,9 +179,9 @@ __Special Note for the Online Section__: the online section will be synchronous 
 
 __Flipped Classroom__: This course, including both the in-person and the online sections, will follow a _flipped classroom_ manner. Which means the lectures (e.g. in _recorded videos_) will be released to you __prior__ to every schedule class meeting. It is __mandatory__ for you to watch the class videos prior to the class meetings. The actual class meeting will be mainly for course work (e.g. exercises, Q&As, group work). In order for this model to work, it is crucial for you to come in __prepared__. Refer to the __preparations__ item for more details.
 
-__Note Taking__: While you are watching the class lectures, make sure you take notes. A separate presentation file will be provided to you via _Google Classroom_ for you to take notes. In most of the lecture notebooks, there are some exercise questions. You will need to submit exercise files after most of the classes. We will use a _buddy system_ in which students form 2-3 people groups for comparing notes and codes.
+__Note Taking__: While you are watching the class lectures, make sure you take notes. A separate presentation file will be provided to you via _Google Classroom_ for you to take notes. In most of the lecture notebooks, there are some exercise questions. You will need to submit exercise files after most of the classes. We will use a _buddy system_ in which students form 2-3 people groups for comparing notes and codes. Be aware that some of the material discussed in class will NOT be covered in the textbook, but will often appear in the assignments/projects. You will need to submit exercise files after most of the classes. Of course, I realize that in some cases unforeseeable emergencies arise. If you need to miss class for a legitimate, predictable reason, you must inform me and also take the initiative as early as possible to mitigate the effects of that absence. For example, you should establish a buddy system and ask another peer to take notes, handouts for you. You should find out what took place in the class prior to your next class attendance.
 
-<!--Attend each and every class in a timely manner. Be aware that some of the material discussed in class will NOT be covered in the textbook, but will often appear in the assignments/projects. You will need to submit exercise files after most of the classes. Of course, I realize that in some cases unforeseeable emergencies arise. If you need to miss class for a legitimate, predictable reason, you must inform me and also take the initiative as early as possible to mitigate the effects of that absence. For example, you should establish a buddy system and ask another peer to take notes, handouts for you. You should find out what took place in the class prior to your next class attendance.-->
+<!--Attend each and every class in a timely manner. -->
 
 __Preparations__: To contribute to class discussions, you must spend adequate time prior to class preparing carefully all required tasks (e.g., readings, assignments). This is __mandatory__!
 
@@ -211,7 +211,7 @@ __Students with Disabilities__: Fairfield University is committed to providing q
 
 __Online Office/Coaching Hours__: online office hours are available via [Zoom](), which runs in addition to the regular on ground office hours. If needed, additional coaching hours can be arranged.
 
-__Python Tutoring__: Given the circumstances that the professor is not available, we have Python tutors for on-ground and online tutoring services. Make sure to maintain contacts with your Python tutors.
+<!--__Python Tutoring__: Given the circumstances that the professor is not available, we have Python tutors for on-ground and online tutoring services. Make sure to maintain contacts with your Python tutors.-->
 
 ---
 
@@ -221,17 +221,17 @@ The following course outline is tentative and subject to change when and where d
 
 | Date | Lecture | Coverage | Student Work |
 :--- | :--- | :--- | :--- 
-| Week1 | Course On-boarding; Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "Dictionaries - the root of Python" |
-| Week2 | Python Review: Functions & Iterations | PY4E Ch.8, 9 | DataCamp "Functions and Packages"; _Coding Assignment Pt. 1_ |
-| Week3 | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" |
-| Week4 | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | _Coding Assignment Pt. 2_ |
-| Week5 | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" |
-| Week6 | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" |
-| Week7 | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | _Coding Assignment Pt. 3_ |
-| Week8 | Pandas: Apply Functions | PD4E Ch.9 | DataCamp "Introduction to Data Preprocessing"  |
-| Week9 |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" |
-| Week10 | Pandas: Time Series Data  | PDS Ch.3.11, PD4E Ch.11 | DataCamp "Time Series Analysis in Python - Correlation and Autocorrelation", _Coding Assignment Pt. 4_ |
-| Week11 | Matplotlib: Intro and Simple plotting | PDS Ch.4.0 - 4.2 | DataCamp "Intermediate Python - Matplotlib" |
-| Week12 | Matplotlib: Simple Plotting Continued | PDS Ch.4.5 - 4.6 | __MOCK__ Final Project (In class); |
-| Week13 | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 | _Coding Assignment Pt.5_  |
-| Week14 | Final Project Presentation |
+| Week1 (Sep., 5 - Sep., 11) | Course On-boarding; Python Review: List & Dictionaries | PY4E Ch.4,5 . | DataCamp "Dictionaries - the root of Python" |
+| Week2 (Sep., 12 - Sep., 18) | Python Review: Functions & Iterations | PY4E Ch.8, 9 | DataCamp "Functions and Packages"; _Coding Assignment Pt. 1_ |
+| Week3 (Sep., 19 - Sep., 25) | Numpy: Arrays & Calculation | PDS Ch. 2.1 - 2.4 | DataCamp "NumPy" |
+| Week4 (Sep., 26 - Oct., 2) | Numpy: Aggregation, Comparison, & Sorting | PDS Ch. 2.5 - 2.9 | _Coding Assignment Pt. 2_ |
+| Week5 (Oct., 3 - Oct., 9) | Pandas: Data Structures | PDS Ch.3.0 - 3.3 | DataCamp "Slicing and indexing" |
+| Week6 (Oct., 17 - Oct., 23) | Pandas: Data Manipulation | PDS Ch.3.4 - 3.6 | DataCamp "Transforming Data" |
+| Week7 (Oct., 24 - Oct., 30) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | _Coding Assignment Pt. 3_ |
+| Week8 (Oct., 31 - Nov., 6) | Pandas: Apply Functions | PD4E Ch.9 | DataCamp "Introduction to Data Preprocessing"  |
+| Week9 (Nov., 7 - Nov., 13) |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" |
+| Week10 (Nov., 14 - Nov., 20) | Pandas: Time Series Data  | PDS Ch.3.11, PD4E Ch.11 | DataCamp "Time Series Analysis in Python - Correlation and Autocorrelation", _Coding Assignment Pt. 4_ |
+| Week11 (Nov., 21 - Nov., 27) | Matplotlib: Intro and Simple plotting | PDS Ch.4.0 - 4.2 | DataCamp "Intermediate Python - Matplotlib" |
+| Week12 (Nov., 28 - Dec., 4) | Matplotlib: Simple Plotting Continued | PDS Ch.4.5 - 4.6 | __MOCK__ Final Project (In class); |
+| Week13 (Dec., 5 - Dec., 11) | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 | _Coding Assignment Pt.5_  |
+| Week14 (Dec., 14) | Final Project Presentation |
