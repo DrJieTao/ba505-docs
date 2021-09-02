@@ -230,8 +230,8 @@ The following course outline is tentative and subject to change when and where d
 | Week7 (Oct., 24 - Oct., 30) | Pandas: Data Types & Cleaning | PDS Ch.3.7 - 3.10 | _Coding Assignment Pt. 3_ |
 | Week8 (Oct., 31 - Nov., 6) | Pandas: Apply Functions | PD4E Ch.9 | DataCamp "Introduction to Data Preprocessing"  |
 | Week9 (Nov., 7 - Nov., 13) |Pandas: Data Aggregation | PD4E Ch.10 | DataCamp "Data Manipulation with pandas - Aggregating Data" |
-| Week10 (Nov., 14 - Nov., 20) | Pandas: Time Series Data  | PDS Ch.3.11, PD4E Ch.11 | DataCamp "Time Series Analysis in Python - Correlation and Autocorrelation", _Coding Assignment Pt. 4_ |
-| Week11 (Nov., 21 - Nov., 27) | Matplotlib: Intro and Simple plotting | PDS Ch.4.0 - 4.2 | DataCamp "Intermediate Python - Matplotlib" |
+| Week10 (Nov., 14 - Nov., 20) | Pandas: Time Series Data  | PDS Ch.3.11, PD4E Ch.11 | DataCamp "Working with Time Series in Pandas", _Coding Assignment Pt. 4_ |
+| Week11 (Nov., 21 - Nov., 27) | Matplotlib: Intro and Simple plotting | PDS Ch.4.0 - 4.2 | DataCamp "Customizing Seaborn Plots" |
 | Week12 (Nov., 28 - Dec., 4) | Matplotlib: Simple Plotting Continued | PDS Ch.4.5 - 4.6 | __MOCK__ Final Project (In class); |
 | Week13 (Dec., 5 - Dec., 11) | Matplotlib: Annotation & Customization | PDS Ch.4.7 - 4.10 | _Coding Assignment Pt.5_  |
 | Week14 (Dec., 14) | Final Project Presentation |
