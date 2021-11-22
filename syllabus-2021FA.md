@@ -136,11 +136,12 @@ DataCamp is an online learning community covering Python, R, and SQL. In this co
 ### Coding Assignments
 There are two individual assignments that focus on the __practice__ parts of the learning objectives. The assignments are worth 46 points each 
 and are based on the following business applications.
-+ __HealthStats Project__: This project is designed to provide __Just-in-Time__ practice with the analytical packages of Python, Jupyter, and GitHub. In each part you will complete a short assignment that applies what you have learned in the classroom that week. Do not do assignments until they are assigned. They may change at any time until they are formally assigned.
+<!--+ __HealthStats Project__: This project is designed to provide __Just-in-Time__ practice with the analytical packages of Python, Jupyter, and GitHub. In each part you will complete a short assignment that applies what you have learned in the classroom that week. Do not do assignments until they are assigned. They may change at any time until they are formally assigned.-->
++ **Coding assignments**: there are five (5) coding assignments in this course, which means one (1) assignment for each study unit. In each assignment, you are expected to complete one or more data munging/exploration task(s) using Python/NumPy/Pandas/Matplotlib. Each part is 100 points. 
 
-+ The last part of the coding assignment will be a miniature version of your final project.You should consider using the notebook provided for the part for your final project presentation/report.
++ The last part of the coding assignment will be a miniature version of your final project.You should consider using the notebook provided for the part for your final project presentation/report. Zero point.
 
-You are __encouraged to collaborate__ with your peers. However, you are also responsible for learning the key lessons of each assignment. So, if you need help, ask for it and pay attention to the answers. If you know how to help someone (without doing the work for them), then please help them out.
+You are __encouraged to collaborate__ with your peers. However, you are also responsible for learning the key lessons of each assignment. So, if you need help, ask for it and pay attention to the answers. If you know how to help someone (without doing the work for them), then please help them out. For any coding assignment, there is an __optional__ checkpoint that you can submit your work for feedback. Please allow enough time for feedback, and note your checkpoint submissions will __not__ be graded.
 
 ### Final Project
 Students will self-select into teams of about 2-3 students and will work in their
